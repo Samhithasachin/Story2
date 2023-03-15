@@ -1,1 +1,2 @@
 This is the second chapter.
+Adding a second line
